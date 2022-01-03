@@ -10,11 +10,22 @@
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=jerhemy&theme=tokyonight&layout=compact&card_width=445)](https://github.com/jerhemy/github-readme-stats) 
 [![](https://github-readme-stats.vercel.app/api/wakatime?username=jerhemy&theme=tokyonight&layout=compact&card_width=460)](https://github.com/jerhemy/github-readme-stats)
 
-## Skills
-![](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=white&color=red)
-![](https://img.shields.io/badge/Angular-informational?style=flat&logo=Angular&logoColor=white&color=red)
-![](https://img.shields.io/badge/Node-informational?style=flat&logo=Node.JS&logoColor=white&color=red)
-![](https://img.shields.io/badge/CSharp-informational?style=flat&logo=CSharp&logoColor=white&color=red)
+## Programming
+![](https://img.shields.io/badge/Javascript--informational?style=social&logo=Javascript&logoColor=black&color=red)
+![](https://img.shields.io/badge/TypeScript--informational?style=social&logo=TypeScript&logoColor=black&color=red)
+![](https://img.shields.io/badge/React--informational?style=social&logo=React&logoColor=black&color=red)
+![](https://img.shields.io/badge/Angular--informational?style=social&logo=Angular&logoColor=black&color=red)
+![](https://img.shields.io/badge/Node--informational?style=social&logo=Node.JS&logoColor=black&color=red)
+![](https://img.shields.io/badge/CSharp--informational?style=social&logo=CSharp&logoColor=black&color=red)
+![](https://img.shields.io/badge/Unity--informational?style=social&logo=Unity&logoColor=black&color=red)
+
+## SQL
+![](https://img.shields.io/badge/MSSQL--informational?style=social&logo=MicrosoftSQLServer&logoColor=black&color=red)
+![](https://img.shields.io/badge/MySQL--informational?style=social&logo=MySQL&logoColor=black&color=red)
+
+## DevOps
+![](https://img.shields.io/badge/Docker--informational?style=social&logo=Docker&logoColor=black&color=red)
+
 <!---
 jerhemy/jerhemy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
