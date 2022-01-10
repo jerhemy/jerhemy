@@ -10,7 +10,7 @@
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=jerhemy&theme=tokyonight&layout=compact&card_width=445)](https://github.com/jerhemy/github-readme-stats) 
 
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=jerhemy&theme=tokyonight&layout=compact&card_width=460)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=jerhemy&theme=tokyonight&layout=compact&card_width=460&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## What I do
