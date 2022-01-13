@@ -2,16 +2,23 @@
 - 👀 I’m interested in breaking things
 - 🌱 I’m currently learning ... everything!
 - 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me ...
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerhemy&theme=tokyonight" /> -->
 
-![](https://github-readme-stats.vercel.app/api?username=jerhemy&count_private=true&theme=tokyonight&layout=compact&card_width=460)
+<p align="center">
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=jerhemy&theme=tokyonight&layout=compact&card_width=445)](https://github.com/jerhemy/github-readme-stats) 
+  <img src="https://github-readme-stats.vercel.app/api?username=jerhemy&count_private=true&theme=tokyonight&layout=compact&card_width=460" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerhemy&theme=tokyonight&layout=compact&card_width=445" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jerhemy&theme=tokyonight&layout=compact&card_width=460" />
+  
+<!--   ![](https://github-readme-stats.vercel.app/api?username=jerhemy&count_private=true&theme=tokyonight&layout=compact&card_width=460) -->
 
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=jerhemy&theme=tokyonight&layout=compact&card_width=460)](https://github.com/anuraghazra/github-readme-stats)
+<!--   [![](https://github-readme-stats.vercel.app/api/top-langs/?username=jerhemy&theme=tokyonight&layout=compact&card_width=445)](https://github.com/jerhemy/github-readme-stats)  -->
 
+<!--   [![](https://github-readme-stats.vercel.app/api/wakatime?username=jerhemy&theme=tokyonight&layout=compact&card_width=460)](https://github.com/anuraghazra/github-readme-stats) -->
+</p>
 
 ## What I do
 ![](https://img.shields.io/badge/Javascript--informational?style=social&logo=Javascript&logoColor=black&color=red)
