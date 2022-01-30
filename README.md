@@ -1,26 +1,7 @@
-- 👋 Hi, I’m @jerhemy
-- 👀 I’m interested in breaking things
-- 🌱 I’m currently learning ... everything!
-- 💞️ I’m looking to collaborate on anything!
+## 👋 Hello!
+My name is Jerhemy Waldon and I'm a Software Engineer from the US. Currently working on Next-Gen web applications and AR/XR Experiences.
 
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerhemy&theme=tokyonight" /> -->
-
-<p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=jerhemy&count_private=true&theme=tokyonight&layout=compact&card_width=460" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerhemy&theme=tokyonight&layout=compact&card_width=445" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jerhemy&theme=tokyonight&layout=compact&card_width=460" />
-  
-<!--   ![](https://github-readme-stats.vercel.app/api?username=jerhemy&count_private=true&theme=tokyonight&layout=compact&card_width=460) -->
-
-<!--   [![](https://github-readme-stats.vercel.app/api/top-langs/?username=jerhemy&theme=tokyonight&layout=compact&card_width=445)](https://github.com/jerhemy/github-readme-stats)  -->
-
-<!--   [![](https://github-readme-stats.vercel.app/api/wakatime?username=jerhemy&theme=tokyonight&layout=compact&card_width=460)](https://github.com/anuraghazra/github-readme-stats) -->
-</p>
-
-## What I do
+## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Javascript--informational?style=social&logo=Javascript&logoColor=black&color=red)
 ![](https://img.shields.io/badge/TypeScript--informational?style=social&logo=TypeScript&logoColor=black&color=red)
 ![](https://img.shields.io/badge/React--informational?style=social&logo=React&logoColor=black&color=red)
@@ -34,6 +15,10 @@
 
 ![](https://img.shields.io/badge/Docker--informational?style=social&logo=Docker&logoColor=black&color=red)
 
+## 📈 GitHub Stats
+  <img src="https://github-readme-stats.vercel.app/api?username=jerhemy&count_private=true&theme=tokyonight&layout=compact&card_width=460" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerhemy&theme=tokyonight&layout=compact&card_width=445" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jerhemy&theme=tokyonight&layout=compact&card_width=460" /> -->
 
 <!---
 jerhemy/jerhemy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
