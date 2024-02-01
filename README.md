@@ -1,5 +1,5 @@
 ## 👋 Hello!
-My name is Jerhemy Waldon and I'm a Software Engineer from the US. Currently working on Next-Gen web applications and AR/XR Experiences.
+My name is Jerhemy and I'm a Software Engineer from the US. Currently working on Next-Gen web applications and AR/XR Experiences.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Javascript--informational?style=social&logo=Javascript&logoColor=black&color=red)
