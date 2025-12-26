@@ -34,8 +34,6 @@ You can click the Preview link to take a look at your changes.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daysmart&repo=ng-daysmart-ui)](https://github.com/daysmart/github-readme-stats) -->
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="jerhemy" data-color="#FF5F5F" data-emoji="" data-font="Lato" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
-
 [![wakatime](https://wakatime.com/badge/user/e7c77225-935a-492f-b0a0-da0b75d73c6a.svg)](https://wakatime.com/@e7c77225-935a-492f-b0a0-da0b75d73c6a)
 
 
