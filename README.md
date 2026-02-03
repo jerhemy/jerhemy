@@ -18,10 +18,10 @@ My name is Jerhemy and I'm a Software Engineer from the US. Currently working on
 ## 📈 GitHub Stats
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=jerhemy&count_private=true&theme=tokyonight&layout=compact&card_width=460" /> -->
 <!--  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jerhemy&theme=tokyonight&layout=compact&card_width=460" /> -->
-<!---
+
 ![](https://raw.githubusercontent.com/jerhemy/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/jerhemy/github-stats/master/generated/languages.svg#gh-dark-mode-only)
---->
+
 <!---
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jerhemy&theme=tokyonight&hide_border=true&fire=DD2727"/>
