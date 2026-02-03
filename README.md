@@ -1,4 +1,5 @@
 ![](https://img.shields.io/badge/website-jerhemy.com)
+[![wakatime](https://wakatime.com/badge/user/e7c77225-935a-492f-b0a0-da0b75d73c6a.svg)](https://wakatime.com/@e7c77225-935a-492f-b0a0-da0b75d73c6a)
 
 ## 👋 Hello!
 My name is Jerhemy and I'm a Software Engineer from the US. Currently working on Next-Gen web applications and AR/XR Experiences.
@@ -43,6 +44,6 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://www.buymeacoffee.com/jerhemy" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
-[![wakatime](https://wakatime.com/badge/user/e7c77225-935a-492f-b0a0-da0b75d73c6a.svg)](https://wakatime.com/@e7c77225-935a-492f-b0a0-da0b75d73c6a)
+
 
 
