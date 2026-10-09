@@ -41,14 +41,14 @@ Docker, self-hosted services, databases, development workflows, and automation t
   <strong>Languages & Frameworks</strong>
 </p>
 <p align="center">
-  <img alt="C#, .NET, TypeScript, JavaScript, Python, React, Angular and Node.js" src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,py,react,angular,nodejs&theme=dark&perline=8" />
+  <img alt="C#, .NET, TypeScript, JavaScript, Python, React, Angular and Node.js" src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,py,react,angular,nodejs,css,cypress,electron,emotion,express,fastapi,html,jquery,nestjs,sass,styledcomponents,vite,&theme=dark&perline=8" />
 </p>
 
 <p align="center">
   <strong>Platforms, Tools & Infrastructure</strong>
 </p>
 <p align="center">
-  <img alt="Docker, Linux, Git, GitHub Actions, MySQL, MongoDB, Unity and PyTorch" src="https://skillicons.dev/icons?i=docker,linux,git,githubactions,mysql,mongodb,unity,pytorch&theme=dark&perline=8" />
+  <img alt="Docker, Linux, Git, GitHub Actions, MySQL, MongoDB, Unity and PyTorch" src="https://skillicons.dev/icons?i=docker,linux,git,githubactions,mysql,sqlite,mongodb,unity,pytorch&theme=dark&perline=8" />
 </p>
 <p align="center">
   <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
