@@ -64,8 +64,9 @@ Docker, self-hosted services, databases, development workflows, and automation t
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img width="48%" alt="GitHub overview" src="https://raw.githubusercontent.com/jerhemy/github-stats/master/generated/overview.svg" />
-  <img width="48%" alt="GitHub languages" src="https://raw.githubusercontent.com/jerhemy/github-stats/master/generated/languages.svg" />
+  
+  <img width="48%" alt="GitHub overview" src="https://raw.githubusercontent.com/jerhemy/github-stats/refs/heads/generated/overview.svg" />
+  <img width="48%" alt="GitHub languages" src="https://raw.githubusercontent.com/jerhemy/github-stats/refs/heads/generated/languages.svg" />
 </p>
 
 <p align="center">
